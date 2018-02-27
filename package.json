@@ -1,5 +1,5 @@
 {
-  "name": "heroku-badge",
+  "name": "andela-badge",
   "version": "0.0.1",
   "dependencies": {
     "connect": "^3.0.0",
