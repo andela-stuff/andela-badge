@@ -2,7 +2,7 @@ andela-badge
 ==================
 [![Build Status](https://travis-ci.org/andela-stuff/andela-badge.svg?branch=master)](https://travis-ci.org/andela-stuff/andela-badge)
 [![Andela](https://andela-badge.herokuapp.com/?style=flat)](https://andela.com)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=andela-badge&style=flat)](https://heroku-badge.herokuapp.com/projects.html)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=andela-badge&style=flat)](https://andela-badge.herokuapp.com)
 
 ##Usage
 
