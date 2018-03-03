@@ -1,38 +1,19 @@
 andela-badge
 ==================
 [![Build Status](https://travis-ci.org/andela-stuff/andela-badge.svg?branch=master)](https://travis-ci.org/andela-stuff/andela-badge)
-[![Andela](https://andela-badge.herokuapp.com/?style=flat)](https://andela.com)
+[![Andela](https://andela-badge.herokuapp.com/)](https://andela.com)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=andela-badge&style=flat)](https://andela-badge.herokuapp.com)
 
 ##Usage
 
-Create an `img` with src `https://heroku-badge.herokuapp.com/?app={app-name}`. E.g.,
+Create an `img` with src `https://andela-badge.herokuapp.com`. E.g.,
 
 HTML:
-    <img src="https://heroku-badge.herokuapp.com/?app=heroku-badge" />
+    <img src="https://andela-badge.herokuapp.com" />
     
 Markdown:
 
-    [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
-
-
-If the heroku app has no index.html than use the root query parameter to specify the url to check if heroku response with http status 200.
-
-HTML:
-    <img src="http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html" />
-
-Markdown:
-
-    [![Heroku](http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html)]
-
-Failed Example
-
-HTML:
-    <img src="http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1&root=notfound.html" />
-
-Markdown:
-
-    [![Heroku](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1&root=notfound.html)]    
+    [![Heroku](https://andela-badge.herokuapp.com)]   
 
 Support now flat badge design.
 
