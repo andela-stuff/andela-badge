@@ -1,8 +1,6 @@
 andela-badge
 ==================
 [![Build Status](https://travis-ci.org/andela-stuff/andela-badge.svg?branch=master)](https://travis-ci.org/andela-stuff/andela-badge)
-[![Andela](https://andela-badge.herokuapp.com/)](https://andela.com)
-[![Andela](https://andela-badge.herokuapp.com/)](https://andelaa.com)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=andela-badge&style=flat)](https://andela-badge.herokuapp.com)
 
 ##Usage
