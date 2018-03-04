@@ -26,7 +26,7 @@ server.use(function(req, res, next) {
 
   res.writeHead(200, {
     'Content-Type': 'image/'+fileExtension,
-    // "Cache-Control": "no-cache, no-store, must-revalidate"
+    'Cache-Control': 'no-cache, no-store, must-revalidate'
   });
   fileStream.pipe(res);
 });
